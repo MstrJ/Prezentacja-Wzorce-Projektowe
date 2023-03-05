@@ -45,17 +45,18 @@ class Program
 
 
         //Console.WriteLine("-- Singleton --");
-        ////Singleton
+        
+        //Singleton
 
-        //var instance1 = Singleton.GetInstance(10);
+        var instance1 = Singleton.GetInstance(10);
 
-        //Console.WriteLine($"instance1 - {instance1.Number}");
+        Console.WriteLine($"instance1 - {instance1.Number}");
 
-        //var instance2 = Singleton.GetInstance(1);
+        var instance2 = Singleton.GetInstance(1);
 
-        //Console.WriteLine($"instance2 - {instance2.Number}");
+        Console.WriteLine($"instance2 - {instance2.Number}");
 
-        //Console.WriteLine($"obj1==obj2 -> {instance1 == instance2}");
+        Console.WriteLine($"obj1==obj2 -> {instance1 == instance2}");
 
         //var instance3 = new Singleton(); // nie dostepny
 
