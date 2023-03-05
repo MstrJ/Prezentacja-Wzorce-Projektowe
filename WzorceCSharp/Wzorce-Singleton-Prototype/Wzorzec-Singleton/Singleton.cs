@@ -1,8 +1,6 @@
 ﻿namespace Wzorce_Singleton_Prototype.Wzorzec_Singleton;
-
 public class Singleton
 {
-
     private static Singleton _instance;
     public int Number { get; set; }
 
@@ -19,7 +17,6 @@ public class Singleton
 
             Console.WriteLine($"Objekt został utworzony z wartoscią {n}");
         }
-
         return _instance;
     }
 }
