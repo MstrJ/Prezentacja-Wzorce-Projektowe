@@ -32,8 +32,6 @@ class Program
         Console.WriteLine($"obj2: {obj2}"); // deep clone
         Console.WriteLine($"obj3: {obj3}"); // shallow clone
 
-
-
         Console.WriteLine($"obj1.Address.GetHashCode(): {obj1.Address.GetHashCode()}");
         Console.WriteLine($"obj2.Address.GetHashCode(): {obj2.Address.GetHashCode()}");
         Console.WriteLine($"obj3.Address.GetHashCode(): {obj3.Address.GetHashCode()}");
