@@ -24,22 +24,23 @@ public class Person : ICloneable
 	}
 
 	public object Clone()
-    {
-        // Głębokie klonowanie - tworzymy nowy obiekt i kopiujemy wartości z obiektu oryginalnego,
-        // ale również klonujemy pola referencyjne, a więc tworzymy nowe obiekty Address
-        return new Person(Name,Age,new Address { City=Address.City,Street=Address.Street});
+    	{
+        	// Głębokie klonowanie - tworzymy nowy obiekt i kopiujemy wartości z obiektu oryginalnego,
+        	// ale również klonujemy pola referencyjne, a więc tworzymy nowe obiekty Address
+        	return new Person(Name,Age,new Address { City=Address.City,Street=Address.Street});
 	}
+	
 	public Person ShallowCopy()
-    {
-
-        // Płytkie klonowanie - tworzymy nowy obiekt i kopiujemy wartości z obiektu oryginalnego,
-        // ale kopiujemy jedynie referencję do obiektu Address, a nie klonujemy go
-        return (Person) MemberwiseClone();
-    }
-    public override string ToString()
+    	{
+        	// Płytkie klonowanie - tworzymy nowy obiekt i kopiujemy wartości z obiektu oryginalnego,
+        	// ale kopiujemy jedynie referencję do obiektu Address, a nie klonujemy go
+        	return (Person) MemberwiseClone();
+   	}	
+	 
+    	public override string ToString()
 	{
 		return $"{Name}, {Age}, {Address}";
-    }
+    	}
 }
 
 
