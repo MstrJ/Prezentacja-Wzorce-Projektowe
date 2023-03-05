@@ -60,3 +60,8 @@ class Program
 
     }
 }
+
+    public interface ICloneable
+    {
+        object Clone();
+    }
