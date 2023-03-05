@@ -1,0 +1,15 @@
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\bin\Debug\net6.0\Wzorce-Singleton-Prototype.exe
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\bin\Debug\net6.0\Wzorce-Singleton-Prototype.deps.json
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\bin\Debug\net6.0\Wzorce-Singleton-Prototype.runtimeconfig.json
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\bin\Debug\net6.0\Wzorce-Singleton-Prototype.dll
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\bin\Debug\net6.0\Wzorce-Singleton-Prototype.pdb
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\obj\Debug\net6.0\Wzorce-Singleton-Prototype.csproj.AssemblyReference.cache
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\obj\Debug\net6.0\Wzorce-Singleton-Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\obj\Debug\net6.0\Wzorce-Singleton-Prototype.AssemblyInfoInputs.cache
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\obj\Debug\net6.0\Wzorce-Singleton-Prototype.AssemblyInfo.cs
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\obj\Debug\net6.0\Wzorce-Singleton-Prototype.csproj.CoreCompileInputs.cache
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\obj\Debug\net6.0\Wzorce-Singleton-Prototype.dll
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\obj\Debug\net6.0\refint\Wzorce-Singleton-Prototype.dll
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\obj\Debug\net6.0\Wzorce-Singleton-Prototype.pdb
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\obj\Debug\net6.0\Wzorce-Singleton-Prototype.genruntimeconfig.cache
+C:\Users\MasterJ\source\repos\Zadania Obiektowe\WzorceCSharp\Wzorce-Singleton-Prototype\obj\Debug\net6.0\ref\Wzorce-Singleton-Prototype.dll
